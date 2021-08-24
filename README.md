@@ -1,2 +1,2 @@
 # moviesDataSetPSQL
-scripts used to create and manipulate the-movies-dataset  
+scripts to create and manipulate a database for the-movies-dataset  
